@@ -1,0 +1,20 @@
+{
+  "name": "CoffeeFinder",
+  "version": "1.0.0",
+  "description": "Your personal guide to delicious coffee. There's an incredible amount of different types of coffee out there. Where do you even begin? Should you start with blends? Or single origins? By taking this short quiz, CoffeeFinder finds the type of coffee you'll click with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjthornberry/FindMyDog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjthornberry/FindMyDog/issues"
+  },
+  "homepage": "https://github.com/wjthornberry/FindMyDog#readme"
+}
