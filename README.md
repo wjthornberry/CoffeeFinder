@@ -57,7 +57,6 @@ node coffeeFinder.js
 
 ## Copyright
 
-[Jake Thornberry](http
-://www.jakethornberry.net) (C) 2017.
+[Jake Thornberry](www.jakethornberry.net) (C) 2017.
 
 
