@@ -28,22 +28,22 @@ OR
 
 Install them manually:
 
-   * [Inquirer](https://www.npmjs.com/package/inquirer) - asks the user questions and notes the response.
+   * [Express](https://www.npmjs.com/package/express) - Fast, unopinionated, minimalist web framework for node.
    ````
-   npm install inquirer
+   npm install express
    ````
-   * [mysql](https://www.npmjs.com/package/mysql) -
-   This is a node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.
+   * [Body-parser](https://www.npmjs.com/package/body-parser) -
+    Node.js body parsing middleware.
    ````
-   npm install mysql
+   npm install body-parser
    ````
-   * [Colors](https://www.npmjs.com/package/colors) - adds color to text to enhance readability.
+   * [Path](https://www.npmjs.com/package/colors) - This is an exact copy of the NodeJS ’path’ module published to the NPM registry. This module provides utilities for working with file and directory paths. 
    ````
-   npm install colors
+   npm install path
    ````
 4. To run the application, type 
 ```
-node coffeeFinder.js
+node FriendFinder.js
 ```
 ## Demo
 
