@@ -1,15 +1,15 @@
 # CoffeeFinder
 
-Your personal guide to delicious coffee. There's an incredible amount of different types of coffee out there. Where do you even begin? Should you start with blends? Or single origins? By taking this short quiz, CoffeeFinder finds the type of coffee you'll click with.
+Your personal guide to finding a new friend. There's an incredible amount of different types of people out there. How do you make a new friend? By taking this short quiz, FriendFinder finds the type of person you'll click with.
 
 ## Easy
 Answer 10 simple questions — that's it.
 
 ## Quick
-CoffeeFinder only takes a few minutes, which enables you to get to the best part: tasting delicous coffee. 
+FriendFinder's quiz only takes a few minutes, which enables you to get to the best part: hanging out with your new friend. 
 
 ## Personalized
-Ever wanted a custom coffee recommendation based on your own unique personal tastes? You've found it: CoffeeFinder. 
+Ever wanted to make a new friend that really gets you? You've found it: FriendFinder. 
 
 # Under the Hood (Technology)
 
