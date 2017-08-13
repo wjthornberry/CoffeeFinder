@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/wjthornberry/FindMyDog/issues"
   },
-  "homepage": "https://github.com/wjthornberry/FindMyDog#readme"
+  "homepage": "https://github.com/wjthornberry/FindMyDog#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
 }
