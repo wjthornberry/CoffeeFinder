@@ -18,3 +18,10 @@ app.use(bodyParser.text());
 app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
 app.use('/static', express.static(path.join(__dirname, 'app/public')))
+
+// Router points server to the route files
+// These are the server's map for how to respond to a user when they 
+// visit or request data from the URLs.
+
+require('./app/routng/html-routes.js')(app);
+require('./app/routing/api-routes.js')(app);
