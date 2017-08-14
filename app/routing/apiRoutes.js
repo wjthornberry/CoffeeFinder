@@ -1,4 +1,4 @@
-var friend = require('../data/friends.js');
+var friends = require('../data/friends.js');
 
 module.exports = function(app) {
     // API GET requests
