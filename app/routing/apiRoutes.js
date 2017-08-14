@@ -1,14 +1,17 @@
+// Require use of the friend array from app/data/friends.js
 var friends = require('../data/friends.js');
 
 module.exports = function(app) {
     // API GET requests
-    app.get('/api/friends', function (req, res) {
+    // This is run when a user visits a page
+    // A JSON of the data in the table is displayed to the user
+    app.get("/api/friends", function (req, res) {
         res.json(friends);
     });
 
     // Takes the user's submission of a form and submits
     // that data to the server
-    app.post('api/friends', function (req, res) {
+    app.post("api/friends", function (req, res) {
        
         var friendMatch = {
             name: '',
