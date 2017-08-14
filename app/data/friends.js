@@ -1,7 +1,7 @@
 var friends = [
     {
         name: 'Aslan',
-        photo: '.././public/images/aslan.png',
+        photo: '/public/images/aslan.png',
         scores: [
             '5',
             '5',
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         name: 'Kathryn',
-        photo: '../public/images/kathryn.png',
+        photo: '/public/images/kathryn.png',
         scores: [
             '5',
             '4',
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: 'Jake',
-        photo: '../public/images/jake.png',
+        photo: '/public/images//jake.png',
         scores: [
             '5',
             '5',
@@ -49,7 +49,7 @@ var friends = [
     },
     {
         name: 'GOB',
-        photo: '../public/images/gob.png',
+        photo: '/public/images/gob.png',
         score: [
             '1',
             '2',
@@ -65,7 +65,7 @@ var friends = [
     },
     {
         name: 'Donald Trump',
-        photo: '../public/images/thedonald.png',
+        photo: '/public/images/thedonald.png',
         score: [
             '1',
             '4',
@@ -81,7 +81,7 @@ var friends = [
     },
     {
         name: 'Barack Obama',
-        photo: '../public/images/barack.png',
+        photo: '/public/images/barack.png',
         score: [
             '5',
             '4',
@@ -97,7 +97,7 @@ var friends = [
     },
     {
         name: 'Harriet',
-        photo: '../public/images/harriet.png',
+        photo: '/public/images/harriet.png',
         score: [
             '4',
             '3',
@@ -113,7 +113,7 @@ var friends = [
     },
     {
         name: 'Paul McCartney',
-        photo: '../public/images/paul.png',
+        photo: '/public/images/paul.png',
         score: [
             '4',
             '5',
@@ -129,7 +129,7 @@ var friends = [
     },
     {
        name: 'Ruth Bader Ginsburg',
-       photo: '../public/images/ruth.png',
+       photo: '/public/images/ruth.png',
        score: [
            '4',
            '3',
@@ -145,7 +145,7 @@ var friends = [
     },
     {
         name: 'Calvin',
-        photo: '../public/images/calvin.png',
+        photo: '/public/images/calvin.png',
         score: [
             '5',
             '4',
@@ -161,7 +161,7 @@ var friends = [
     },
     {
         name: 'Hobbes',
-        photo: '../public/images/hobbes.png',
+        photo: '/public/images/hobbes.png',
         score: [
             '5',
             '2',
