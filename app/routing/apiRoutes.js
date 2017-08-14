@@ -11,11 +11,11 @@ module.exports = function(app) {
 
     // Takes the user's submission of a form and submits
     // that data to the server
-    app.post("api/friends", function (req, res) {
+    app.post("/api/friends", function (req, res) {
        
         var friendMatch = {
-            name: '',
-            photo: '',
+            name: "",
+            photo: "",
             friendDifference: 1000
         };
         // Takes the result of the user's survey POST and parses it
@@ -40,7 +40,7 @@ module.exports = function(app) {
                 // Checks the sum of the differences
                 // If less than the differences of the current best match
                 if (totalDifference <= friendMatch.friendDifference) {
-                    // Reset the friendMatch to be the new friend
+                    // Reset friendMatch to be the new friend
                     friendMatch.name = friends[i].name;
                     friendMatch.photo = friends[i].photo;
                     friendMatch.friendDifference = totalDifference;
