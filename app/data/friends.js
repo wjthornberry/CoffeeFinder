@@ -1,7 +1,7 @@
 var friends = [
     {
         name: 'Aslan',
-        photo: '../public/images/aslan.jpg',
+        photo: '../public/images/aslan.png',
         scores: [
             '5',
             '5',
@@ -14,10 +14,10 @@ var friends = [
             '3',
             '2'
         ]
-    }
+    },
     // {
     //     name: 'Kathryn',
-    //     photo: '../public/images/kathryn.jpg',
+    //     photo: '../public/images/kathryn.png',
     //     scores: [
     //         '5',
     //         '4',
