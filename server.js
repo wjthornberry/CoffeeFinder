@@ -23,5 +23,5 @@ app.use('/static', express.static(path.join(__dirname, 'app/public')))
 // These are the server's map for how to respond to a user when they 
 // visit or request data from the URLs.
 
-require('./app/routing/html-routes.js')(app);
-require('./app/routing/api-routes.js')(app);
+require('./app/routing/htmlroutes.js')(app);
+require('./app/routing/apiroutes.js')(app);
