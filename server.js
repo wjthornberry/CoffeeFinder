@@ -28,3 +28,6 @@ app.use('/static', express.static(path.join(__dirname, 'app/public')))
 
 require('./app/routing/htmlroutes.js')(app);
 require('./app/routing/apiroutes.js')(app);
+
+// Heroku link
+// https://nameless-dusk-37653.herokuapp.com/
