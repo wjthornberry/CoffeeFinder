@@ -173,7 +173,8 @@
     }
 
     // Captures form inputs
-    $("#submit").on("click", function() {
+    $("#submit").on("click", function(e) {
+      e.preventDefault();
 
       // Validates forms
       function validateForm() {
