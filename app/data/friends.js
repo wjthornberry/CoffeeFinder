@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: 'Jake',
-        photo: '../public/images//jake.png',
+        photo: '../public/images/jake.png',
         scores: [
             '5',
             '5',
@@ -64,7 +64,7 @@ var friends = [
         ]
     },
     {
-        name: 'Donald Trump',
+        name: 'Donal Trump',
         photo: '../public/images/thedonald.png',
         score: [
             '1',
@@ -92,7 +92,7 @@ var friends = [
             '3',
             '3',
             '4',
-            '3',
+            '3'
         ]
     },
     {
@@ -128,24 +128,24 @@ var friends = [
         ]
     },
     {
-       name: 'Ruth Bader Ginsburg',
-       photo: '../public/images/ruth.png',
-       score: [
-           '4',
-           '3',
-           '4',
-           '1',
-           '2',
-           '5',
-           '2',
-           '2',
-           '3',
-           '3'
-       ] 
+        name: 'Ruth Bader Ginsburg',
+        photo: '../public/images/ruth.png',
+        score: [
+            '4',
+            '3',
+            '4',
+            '1',
+            '2',
+            '5',
+            '2',
+            '2',
+            '3',
+            '3'
+        ]
     },
     {
         name: 'Calvin',
-        photo: '../public/images/calvin.png',
+        photo: '..public/images/calvin.png',
         score: [
             '5',
             '4',
