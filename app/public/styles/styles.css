@@ -1,0 +1,118 @@
+html { 
+    /* background: url("fistbump") no-repeat center center fixed;  */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  body {
+      text-align: center;
+  }
+  
+  h1 {
+      /* font-family: 'Bungee', cursive; */
+      font-size: 85px !important;
+      color: #78bfe4;
+      letter-spacing: 4px;
+      padding-top: 100px;
+  }
+  
+  h4 {
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 20px !important;
+      color: #FFF;
+      text-transform: uppercase
+  }
+  
+  #header {
+    margin-top: -35px;
+  }
+  
+  #subhead {
+      margin-top: -20px;
+  }
+  
+  /* buttons */
+  .button,
+  button,
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"] {
+    display: inline-block;
+    height: 38px;
+    padding: 0 30px;
+    color: #777;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: .1rem;
+    text-transform: lowercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box; }
+  .button:hover,
+  button:hover,
+  input[type="submit"]:hover,
+  input[type="reset"]:hover,
+  input[type="button"]:hover,
+  .button:focus,
+  button:focus,
+  input[type="submit"]:focus,
+  input[type="reset"]:focus,
+  input[type="button"]:focus {
+    color: #777;
+    border-color: #777;
+    outline: 0; }
+  .button.button-primary,
+  button.button-primary,
+  input[type="submit"].button-primary,
+  input[type="reset"].button-primary,
+  input[type="button"].button-primary {
+    color: #777;
+    background-color: #78bfe4;
+    border-color: #78bfe4; }
+  .button.button-primary:hover,
+  button.button-primary:hover,
+  input[type="submit"].button-primary:hover,
+  input[type="reset"].button-primary:hover,
+  input[type="button"].button-primary:hover,
+  .button.button-primary:focus,
+  button.button-primary:focus,
+  input[type="submit"].button-primary:focus,
+  input[type="reset"].button-primary:focus,
+  input[type="button"].button-primary:focus {
+    color: #78bfe4;
+    background-color: transparent;
+    border-color: #78bfe4; }
+  
+  
+  /* border */
+  #top,
+  #bottom,
+  #left,
+  #right {
+      background: #78bfe4;
+      position: fixed;
+  }
+  
+  #left,
+  #right {
+      top: 0; bottom: 0;
+      width: 20px;
+  }
+      #left { left: 0; }
+      #right { right: 0; }
+  
+  #top,
+  #bottom {
+      left: 0; right: 0;
+      height: 20px;
+  }
+      #top { top: 0; }
+      #bottom { bottom: 0; }

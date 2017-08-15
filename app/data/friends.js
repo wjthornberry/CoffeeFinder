@@ -50,7 +50,7 @@ var friends = [
     {
         name: 'GOB',
         photo: '../public/images/gob.png',
-        score: [
+        scores: [
             '1',
             '2',
             '2',
@@ -64,9 +64,9 @@ var friends = [
         ]
     },
     {
-        name: 'Donal Trump',
+        name: 'Donald Trump',
         photo: '../public/images/thedonald.png',
-        score: [
+        scores: [
             '1',
             '4',
             '1',
@@ -82,7 +82,7 @@ var friends = [
     {
         name: 'Barack Obama',
         photo: '../public/images/barack.png',
-        score: [
+        scores: [
             '5',
             '4',
             '4',
@@ -98,7 +98,7 @@ var friends = [
     {
         name: 'Harriet',
         photo: '../public/images/harriet.png',
-        score: [
+        scores: [
             '4',
             '3',
             '5',
@@ -114,7 +114,7 @@ var friends = [
     {
         name: 'Paul McCartney',
         photo: '../public/images/paul.png',
-        score: [
+        scores: [
             '4',
             '5',
             '3',
@@ -130,7 +130,7 @@ var friends = [
     {
         name: 'Ruth Bader Ginsburg',
         photo: '../public/images/ruth.png',
-        score: [
+        scores: [
             '4',
             '3',
             '4',
@@ -146,7 +146,7 @@ var friends = [
     {
         name: 'Calvin',
         photo: '..public/images/calvin.png',
-        score: [
+        scores: [
             '5',
             '4',
             '5',
@@ -162,7 +162,7 @@ var friends = [
     {
         name: 'Hobbes',
         photo: '../public/images/hobbes.png',
-        score: [
+        scores: [
             '5',
             '2',
             '5',
